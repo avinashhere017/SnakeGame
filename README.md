@@ -22,7 +22,7 @@ Java Snake Game is a simple implementation of the classic Snake game using Java 
 
 ## Screenshots
 
-![Screenshot 1](screenshots/snake_game_screenshot.png)
+![Screenshot 1](screenshots/snake01.png)
 
 ## Contributing
 
