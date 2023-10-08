@@ -20,10 +20,9 @@ Java Snake Game is a simple implementation of the classic Snake game using Java 
 - Snake grows in length as it consumes food.
 - Classic Snake gameplay experience.
 
-## [Screenshots](screenshots/snake game scereenshot.png)
+## Screenshots
 
-[screenshots here](screenshots/snake game scereenshot.png)
-
+![Screenshot 1](screenshots/snake_game_screenshot.png)
 
 ## Contributing
 
