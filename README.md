@@ -24,6 +24,7 @@ Java Snake Game is a simple implementation of the classic Snake game using Java 
 
 ![Screenshot](screenshots/snake01.png)
 
+
 ## Contributing
 
 Contributions are welcome! If you would like to contribute to this project, please create a pull request with your changes.
